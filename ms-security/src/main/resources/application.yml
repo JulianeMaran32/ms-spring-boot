@@ -1,0 +1,23 @@
+server:
+  port: 8081
+  
+  
+spring:
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/securitydb?createDatabaseIfNotExist=true&serverTimezone=UTC 
+    username: root
+    password: root
+    
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect 
+
+# configura usuário padrão para teste c2VjdXJpdHlkYjoxMjM0NTY=
+
+  security:
+    user:
+      name: securitydb
+      password: 123456        

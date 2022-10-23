@@ -207,7 +207,9 @@ class NoteController {
 
 [Devmedia: Introdução ao Maven](https://www.devmedia.com.br/introducao-ao-maven/25128)    
 [Treinaweb: Introdução ao Maven aprenda como criar e gerenciar projetos java](https://www.treinaweb.com.br/blog/introducao-ao-maven-aprenda-como-criar-e-gerenciar-projetos-java)   
+[MVN Repository](https://mvnrepository.com/)   
 
+[Formatar Data](https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html)   
 
 
 <hr> 
